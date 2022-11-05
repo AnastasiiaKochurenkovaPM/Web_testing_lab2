@@ -1,0 +1,182 @@
+﻿2022-10-27T08:32:37.5932058+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-10-27T08:32:37.5934356+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2022-10-27T08:32:37.5934416+03:00;VSTestExecutionThread;Info;TestAdapter Location: E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-10-27T08:32:37.5955786+03:00;VSTestExecutionThread;Info;Current UserName: '1', MachineName: 'DESKTOP-DK4I674'
+2022-10-27T08:32:37.6413701+03:00;VSTestExecutionThread;Info;SpecRun: running tests in E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPageObjectWebDriver.dll
+2022-10-27T08:32:37.6418292+03:00;VSTestExecutionThread;Info;Output folder configured to "E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\TestResults" (default)
+2022-10-27T08:32:37.6423964+03:00;VSTestExecutionThread;Info;Profile: 
+2022-10-27T08:32:37.7148502+03:00;VSTestExecutionThread;Info;Log file path: E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\TestResults\Unnamed project__2022-10-27T083237.log
+2022-10-27T08:32:37.7234727+03:00;Thread#12;Info;Checking activation
+2022-10-27T08:32:37.8464995+03:00;Thread#12;Info;Activated.
+2022-10-27T08:32:37.8468289+03:00;Thread#12;Info;Activation check completed
+2022-10-27T08:32:37.8470859+03:00;Thread#12;Info;Starting test run
+2022-10-27T08:32:37.9698136+03:00;Thread#12;Info;Discovering target: Default
+2022-10-27T08:32:37.9702616+03:00;Thread#12;Info;Discovering tests from assembly: E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPageObjectWebDriver.dll
+2022-10-27T08:32:38.0867009+03:00;Thread#12;Info;Discovered tests from assembly: E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPageObjectWebDriver.dll
+2022-10-27T08:32:38.0896508+03:00:Test Suite Dump
+2022-10-27T08:32:38.0933750+03:00:#0: Unnamed project/ - 
+2022-10-27T08:32:38.0934253+03:00:#1: Default - 
+2022-10-27T08:32:38.0934334+03:00:#2: SpecFlowPageObjectWebDriver - 
+2022-10-27T08:32:38.0934395+03:00:#3: GoogleSearch - 
+2022-10-27T08:32:38.0954937+03:00:#4: Simple search should return result - TestAssembly:SpecFlowPageObjectWebDriver/Feature:GoogleSearch/Scenario:Simple+search+should+return+result
+2022-10-27T08:32:38.0955570+03:00:End: Test Suite Dump
+2022-10-27T08:32:38.1235730+03:00:Thread#0:Scheduler: get next test for thread 0
+2022-10-27T08:32:38.1274429+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-10-27T08:32:38.1275607+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-10-27T08:32:38.1337835+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-10-27T08:32:38.1338212+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-10-27T08:32:38.1338283+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-10-27T08:32:38.1338361+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-10-27T08:32:38.1349482+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-10-27T08:32:38.1373033+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-10-27T08:32:38.1447968+03:00:Thread #0: creating new test thread executor for SpecFlowPageObjectWebDriver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-10-27T08:32:38.1494734+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-10-27T08:32:38.1498385+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-10-27T08:32:38.1535202+03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-10-27T08:32:38.1583987+03:00:starting Out Of Process Executor
+2022-10-27T08:32:38.1615889+03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-10-27T08:32:38.1672480+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-10-27T08:32:38.1673203+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-10-27T08:32:38.1695409+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:38.1711656+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-10-27T08:32:38.1713525+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-10-27T08:32:38.1714116+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:38.1718305+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-10-27T08:32:38.1731177+03:00:Tfm: netcoreapp3.1
+2022-10-27T08:32:38.1731641+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-10-27T08:32:38.1731706+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-10-27T08:32:38.1733194+03:00:[AssemblyCache] Found file 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-10-27T08:32:38.1741176+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-10-27T08:32:38.1754989+03:00:Starting callback TCP Rpc server
+2022-10-27T08:32:38.1991823+03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-10-27T08:32:38.1992658+03:00:Started callback TCP Rpc server on port 32768
+2022-10-27T08:32:38.1992737+03:00:Starting logger TCP Rpc server
+2022-10-27T08:32:38.2036098+03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-10-27T08:32:38.2036560+03:00:Started logger TCP Rpc server on port 32769
+2022-10-27T08:32:38.3040592+03:00:Executing test executor at 'dotnet' 'exec "E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 25124 --uniqueId "2022-10-27T083237" --outputFolder "E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\TestResults" --callbackPort 32768 --loggerPort 32769' in 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:38.3138940+03:00:Executor with PID 25216 has been started successfully.
+2022-10-27T08:32:38.3177247+03:00:Out of Process Executor 25216 started
+2022-10-27T08:32:38.3177504+03:00:Waiting for endpoint
+2022-10-27T08:32:39.1882562+03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-10-27T08:32:39.1883060+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-10-27T08:32:39.1883297+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-10-27T08:32:39.1883391+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:39.1883459+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-10-27T08:32:39.1883949+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-10-27T08:32:39.1884400+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:39.1884468+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-10-27T08:32:39.1884919+03:00:Tfm: netcoreapp3.1
+2022-10-27T08:32:39.1885015+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-10-27T08:32:39.1885070+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-10-27T08:32:39.1885610+03:00:[AssemblyCache] Found file 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-10-27T08:32:39.1894407+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-10-27T08:32:39.5232769+03:00:Remote executor port received: 32770
+2022-10-27T08:32:39.5243031+03:00:Creating executor TCP client on port 32770
+2022-10-27T08:32:39.5252103+03:00:Created executor TCP client on port 32770
+2022-10-27T08:32:39.5252346+03:00:Connecting to remote executor TCP server
+2022-10-27T08:32:39.5272233+03:00:Connected remote executor TCP server
+2022-10-27T08:32:39.5274631+03:00:trying to connect to Out of Process Executor the 1 attempt
+2022-10-27T08:32:39.5274774+03:00:Connection to Out of Process Executor established in the 1 attempt
+2022-10-27T08:32:39.7316957+03:00:2022-10-27T08:32:39.7294362+03:00:OutOfProcessTestAssemblyExecutor: initialized for E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPageObjectWebDriver.dll on test thread #0
+2022-10-27T08:32:39.7388784+03:00:Endpoint 25216 started
+2022-10-27T08:32:39.7699397+03:00:2022-10-27T08:32:39.7691481+03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-10-27T08:32:39.9007769+03:00:2022-10-27T08:32:39.9002057+03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-10-27T08:32:39.9049396+03:00:2022-10-27T08:32:39.9044190+03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-10-27T08:32:39.9113369+03:00:2022-10-27T08:32:39.9107049+03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\1\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-10-27T08:32:40.0844062+03:00:2022-10-27T08:32:40.0793432+03:00:Thread#0:T:-> Loading plugin E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPageObjectWebDriver.dll
+2022-10-27T08:32:40.0886584+03:00:2022-10-27T08:32:40.0861933+03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-10-27T08:32:40.0952420+03:00:2022-10-27T08:32:40.0903851+03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-10-27T08:32:40.1033700+03:00:2022-10-27T08:32:40.0964172+03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\1\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-10-27T08:32:40.1588852+03:00:2022-10-27T08:32:40.1578002+03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-10-27T08:32:40.1598342+03:00:2022-10-27T08:32:40.1594647+03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-10-27T08:32:40.1607959+03:00:2022-10-27T08:32:40.1603742+03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\1\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-10-27T08:32:40.1696791+03:00:2022-10-27T08:32:40.1691101+03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowPageObjectWebDriver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2022-10-27T08:32:40.1705318+03:00:2022-10-27T08:32:40.1701274+03:00:Thread#0:T:-> Loading plugin E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-10-27T08:32:40.1739064+03:00:2022-10-27T08:32:40.1733909+03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-10-27T08:32:40.1745679+03:00:2022-10-27T08:32:40.1742312+03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-10-27T08:32:40.1756817+03:00:2022-10-27T08:32:40.1752534+03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\1\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-10-27T08:32:40.1787222+03:00:2022-10-27T08:32:40.1781869+03:00:Thread#0:T:-> Loading plugin E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-10-27T08:32:40.1878580+03:00:2022-10-27T08:32:40.1872820+03:00:Thread#0:T:-> Using default config
+2022-10-27T08:32:40.1986890+03:00:2022-10-27T08:32:40.1982185+03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2022-10-27T08:32:40.1994115+03:00:2022-10-27T08:32:40.1990590+03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2022-10-27T08:32:40.2003299+03:00:2022-10-27T08:32:40.1999343+03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\1\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2022-10-27T08:32:40.2025742+03:00:2022-10-27T08:32:40.2018495+03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2022-10-27T08:32:40.2034131+03:00:2022-10-27T08:32:40.2029932+03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2022-10-27T08:32:40.2047745+03:00:2022-10-27T08:32:40.2040592+03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\1\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2022-10-27T08:32:40.2121928+03:00:2022-10-27T08:32:40.2116149+03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-10-27T08:32:40.2130012+03:00:2022-10-27T08:32:40.2125116+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-10-27T08:32:40.2145933+03:00:2022-10-27T08:32:40.2141761+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\1\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-10-27T08:32:40.2557624+03:00:2022-10-27T08:32:40.2552895+03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-10-27T08:32:40.2573348+03:00:2022-10-27T08:32:40.2562987+03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-10-27T08:32:40.2582712+03:00:2022-10-27T08:32:40.2579104+03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\1\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-10-27T08:32:40.3712362+03:00:Thread#0: Test #4/0 is started on thread #0
+2022-10-27T08:32:40.4038475+03:00:2022-10-27T08:32:40.4028490+03:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-10-27T08:32:40.4063030+03:00:2022-10-27T08:32:40.4045057+03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-10-27T08:32:40.4081514+03:00:2022-10-27T08:32:40.4070641+03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\1\.nuget\packages\selenium.webdriver\4.5.1\lib\netstandard2.1\WebDriver.dll'
+2022-10-27T08:32:42.8622867+03:00:2022-10-27T08:32:42.8580662+03:00:Assembly resolving Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-10-27T08:32:42.8779835+03:00:2022-10-27T08:32:42.8634775+03:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-10-27T08:32:42.8802472+03:00:2022-10-27T08:32:42.8790614+03:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\1\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-10-27T08:32:46.0358983+03:00:Thread#0:Scheduler: get next test for thread 0
+2022-10-27T08:32:46.0361098+03:00:Thread#:Scheduler: at the end of normal test queue
+2022-10-27T08:32:46.0361219+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-10-27T08:32:46.0361286+03:00:Thread#0:Scheduler: No more tests for thread
+2022-10-27T08:32:46.0740191+03:00:Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 5,7009381 seconds
+2022-10-27T08:32:46.0831512+03:00:2022-10-27T08:32:46.0827506+03:00:Got Deinitialize Signal
+2022-10-27T08:32:46.0906712+03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-10-27T08:32:46.0906713+03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-10-27T08:32:46.0947211+03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-10-27T08:32:46.0968866+03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2022-10-27T08:32:46.0969180+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-10-27T08:32:46.0969296+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-10-27T08:32:46.0969438+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:46.0969489+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-10-27T08:32:46.0970044+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-10-27T08:32:46.0970436+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1'
+2022-10-27T08:32:46.0970644+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-10-27T08:32:46.0971480+03:00:Tfm: netcoreapp3.1
+2022-10-27T08:32:46.0971575+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-10-27T08:32:46.0971609+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-10-27T08:32:46.0972086+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-10-27T08:32:46.0972593+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\SpecFlowPageObjectWebDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-10-27T08:32:46.1097466+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.30'
+2022-10-27T08:32:46.1097856+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.30\System.Diagnostics.Process.resources.dll'
+2022-10-27T08:32:46.1099114+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.30\System.Diagnostics.Process.resources.exe'
+2022-10-27T08:32:46.1099814+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.30'
+2022-10-27T08:32:46.1103096+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.30'
+2022-10-27T08:32:46.1103259+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.30\System.Diagnostics.Process.resources.dll'
+2022-10-27T08:32:46.1104060+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.30\System.Diagnostics.Process.resources.exe'
+2022-10-27T08:32:46.1104715+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.30'
+2022-10-27T08:32:46.1107497+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.30'
+2022-10-27T08:32:46.1107618+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.30\System.Diagnostics.Process.resources.dll'
+2022-10-27T08:32:46.1108535+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.30\System.Diagnostics.Process.resources.exe'
+2022-10-27T08:32:46.1109120+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.30'
+2022-10-27T08:32:46.1122565+03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2022-10-27T08:32:46.1237129+03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-10-27T08:32:46.1238992+03:00:Thread#:Scheduler: at the end of normal test queue
+2022-10-27T08:32:46.1239126+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-10-27T08:32:46.1261704+03:00;Thread#12;Info;test run finished
+2022-10-27T08:32:46.1264054+03:00;Thread#12;Info;publishing test results
+2022-10-27T08:32:46.1267428+03:00;Thread#12;Info;Not publishing results.
+2022-10-27T08:32:46.1269003+03:00;Thread#12;Info;test results published
+2022-10-27T08:32:46.1270115+03:00;Thread#12;Info;generating reports
+2022-10-27T08:32:46.2526019+03:00;Thread#12;Info;Starting external report generation process
+2022-10-27T08:32:49.0389722+03:00;Thread#12;Info;Successfully generated reports.
+2022-10-27T08:32:49.0432424+03:00;Thread#12;Info;Successfully generated reports
+2022-10-27T08:32:49.0546584+03:00:Total: 1
+2022-10-27T08:32:49.0575712+03:00:Succeeded: 0
+2022-10-27T08:32:49.0580690+03:00:Ignored: 0
+2022-10-27T08:32:49.0584117+03:00:Pending: 0
+2022-10-27T08:32:49.0584243+03:00:Skipped: 0
+2022-10-27T08:32:49.0589237+03:00:Failed: 1
+2022-10-27T08:32:49.0715314+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-10-27T08:32:49.0719654+03:00;VSTestExecutionThread;Info;adding Test Execution Report 'E:\AutomationQA\Lessons\Lesson10\SpecFlowPageObjectWebDriver\TestResults\Unnamed project__2022-10-27T083237.html'
+========== End of log file ==========
